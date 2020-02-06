@@ -1,7 +1,6 @@
 <template>
-  <div id="app">
-    
-    <Finder msg="Welcome to Your Vue.js App"/>
+  <div>  
+    <Finder/>
   </div>
 </template>
 
